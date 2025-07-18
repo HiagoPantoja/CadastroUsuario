@@ -1,18 +1,16 @@
-# Cadastro de Usuários: Seu Primeiro CRUD com Spring Boot
+# Cadastro de Usuários:  Meu Primeiro CRUD com Spring Boot
 
-Bem-vindo ao projeto **Cadastro de Usuários**! Este é um CRUD (Create, Read, Update, Delete) simples e eficaz, desenvolvido para demonstrar as operações básicas de gerenciamento de dados de usuários. Se você está começando no mundo do desenvolvimento web com Java e Spring Boot, este projeto é um excelente ponto de partida para entender como construir uma aplicação robusta e organizada.
-
+Bem-vindo ao projeto **Cadastro de Usuários** Desenvolvido para demonstrar as operações básicas de gerenciamento de dados de usuários
 ## Sobre o Projeto
 
-Este projeto foi criado com o objetivo de fornecer uma base sólida para quem deseja aprender a desenvolver aplicações de cadastro de usuários. Ele permite que você:
-
+Criei esse projeto para aprender e praticar como desenvolver uma aplicação backend que faz cadastro, listagem, edição e exclusão de usuários. 
+Funcionalidades : 
 *   **Crie** novos usuários, adicionando suas informações ao sistema.
 *   **Visualize** a lista de usuários existentes, com todos os detalhes.
 *   **Atualize** os dados de usuários já cadastrados, corrigindo ou modificando informações.
 *   **Exclua** usuários do sistema, mantendo a base de dados limpa e organizada.
 
-É uma aplicação backend que expõe uma API RESTful para interagir com os dados dos usuários, utilizando um banco de dados em memória H2 para facilitar o desenvolvimento e os testes.
-
+A aplicação é um backend que expõe uma API REST, e usa um banco de dados H2 em memória, que facilita o desenvolvimento e os testes.
 ## Tecnologias Utilizadas
 
 Este projeto foi construído com as seguintes tecnologias e ferramentas:
